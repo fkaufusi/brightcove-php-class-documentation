@@ -42,7 +42,8 @@ Example script:
     
     cleanup
 
-Example list of videos in PHP
+## How to use this PHP Wrapper class
+Example list of videos
 
 
     use Brightcove\API\CMS;
